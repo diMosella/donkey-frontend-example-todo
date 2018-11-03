@@ -1,0 +1,24 @@
+{
+  "name": "donkey-frontend-example-todo",
+  "version": "0.1.0",
+  "description": "An example application configuration for Donkey FrontEnd",
+  "main": "index.js",
+  "scripts": {
+    "start": "donkey start --config './project.config.json'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab-diMosella:diMosella/donkey-frontend-example-todo.git"
+  },
+  "keywords": [
+    "Donkey",
+    "FrontEnd",
+    "Example"
+  ],
+  "author": "diMosella",
+  "license": "MIT",
+  "dependencies": {
+    "donkey-frontend-base": "file:../donkey-frontend-base"
+  }
+}
