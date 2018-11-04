@@ -1,3 +1,4 @@
 {
-  "title": "Donkey Front-end Example Todo" 
+  "title": "Donkey Front-end Example Todo",
+  "mainComponent": "src/containers/App"
 }
