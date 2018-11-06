@@ -1,4 +1,4 @@
 {
   "title": "Donkey Front-end Example Todo",
-  "mainComponent": "src/containers/App"
+  "mainComponent": "containers/Project.jsx"
 }
