@@ -1,8 +1,9 @@
 import React, { PureComponent } from 'react';
+import classNames from 'classnames';
 
 class Home extends PureComponent {
   render () {
-    return <div>
+    return <div className={classNames('Home')}>
       Test
     </div>;
   }

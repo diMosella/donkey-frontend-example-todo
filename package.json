@@ -20,5 +20,8 @@
   "license": "MIT",
   "dependencies": {
     "donkey-frontend-base": "file:../donkey-frontend-base"
+  },
+  "devDependencies": {
+    "classnames": "^2.2.6"
   }
 }
