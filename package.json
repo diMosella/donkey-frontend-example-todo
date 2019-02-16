@@ -6,7 +6,8 @@
   "scripts": {
     "start": "donkey start --config './project.config.json'",
     "test": "donkey test",
-    "test:cover": "donkey test:cover"
+    "test:cover": "donkey test:cover",
+    "build": "donkey build"
   },
   "repository": {
     "type": "git",
